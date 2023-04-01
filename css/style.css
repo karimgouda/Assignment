@@ -1,0 +1,9 @@
+.home{
+    height: 100vh;
+    background-image: url("../background.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
